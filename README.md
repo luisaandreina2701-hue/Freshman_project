@@ -31,3 +31,10 @@ Backend, base de datos, en algun lado hay q almacenar los login con sus contrase
     - No estresarse (mayor enemigo)
     - Estrategia de crear y probar constantemente, no queremos que ya terminando encontremos errores muy grandes.
 
+
+----------------------------------------------------------------------------
+
+
+# Nuevo objetivo?
+
+Enfocar la app al uso de la Universidad, recomendaciones en el CrosssRoads y comida cercana a la U, descuentos, dias especiales, cosas asi
