@@ -37,4 +37,5 @@ Backend, base de datos, en algun lado hay q almacenar los login con sus contrase
 
 # Nuevo objetivo?
 
-Enfocar la app al uso de la Universidad, recomendaciones en el CrosssRoads y comida cercana a la U, descuentos, dias especiales, cosas asi
+Enfocar la app al uso de la Universidad, recomendaciones en el CrosssRoads y comida cercana a la U o donde te encuentres, dias especiales, descuentos de estudiantes
+S
